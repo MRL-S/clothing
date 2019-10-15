@@ -1,4 +1,4 @@
-/usr/bin/env python3
+#!/usr/bin/env python3
 '''
 TensorFlow 2.0 clothing classification program from
 
